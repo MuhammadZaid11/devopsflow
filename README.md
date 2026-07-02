@@ -1,6 +1,8 @@
 # TaskFlow
 <img width="1364" height="695" alt="image" src="https://github.com/user-attachments/assets/f598f6d0-86e7-45ed-9614-c891371e75af" />
 <img width="1366" height="693" alt="image" src="https://github.com/user-attachments/assets/12c6cc9f-ec20-428e-abf3-f922fbbfd9f9" />
+<img width="1366" height="688" alt="image" src="https://github.com/user-attachments/assets/f1c8fb34-085f-48b4-a4b4-3b704ec2e0d1" />
+<img width="1366" height="670" alt="image" src="https://github.com/user-attachments/assets/ef443020-21cc-4ce4-88dc-e4d82cf256c9" />
 
 TaskFlow is a full-stack MERN (MongoDB, Express, React, Node.js) team task and project management application.
 
