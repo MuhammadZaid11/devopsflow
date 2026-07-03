@@ -1,6 +1,6 @@
 import express from 'express';
 import { createOrganization, getOrganizations, inviteMember } from '../controllers/organizationController.js';
-import { protect, roleCheck } from '../middleware/auth.js'; // roleCheck could also be applied directly if we only want admin role system-wide, but since org roles are inside org document, we check inside controller.
+import { protect } from '../middleware/auth.js'; // roleCheck could also be applied directly if we only want admin role system-wide, but since org roles are inside org document, we check inside controller.
 
 const router = express.Router();
 
